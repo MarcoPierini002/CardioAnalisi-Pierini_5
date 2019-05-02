@@ -370,7 +370,7 @@ namespace DataCardio.Tests
             //inizializzazione variabili
             //risultato previsto
             string exp;
-            //risultato del metodo
+            //risultato del metodo 
             string obt;
 
             //variabili di calcolo

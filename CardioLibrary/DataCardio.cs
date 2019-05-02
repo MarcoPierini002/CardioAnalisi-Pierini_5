@@ -102,7 +102,7 @@ namespace CardioLibrary
                     analisi = "inserire una frequanza accettabile";
             }
             else
-                analisi = "inserire solo 'M' o 'F'";
+                analisi = "inserire solo 'M' o 'F'"; 
 
             return analisi;
         }

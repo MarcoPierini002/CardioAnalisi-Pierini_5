@@ -93,7 +93,7 @@ namespace CardioLibrary
                                 analisi = "inserire un tempo accettabile";
                         }
                         else
-                            analisi = "inserire un'età accettabile";
+                            analisi = "inserire un'età accettabile"; 
                     }
                     else
                         analisi = "inserire un peso accettabile";

@@ -420,7 +420,7 @@ namespace DataCardio.Tests
 
 
 
-        }
+        } 
         [TestMethod]
         public void Test_Spesa3()
         {

@@ -387,7 +387,7 @@ namespace DataCardio.Tests
             Assert.AreEqual(obt, exp);
         }
 
-        [TestMethod]
+        [TestMethod] 
         public void Test_Spesa()
         {
             bool corsa = false;
